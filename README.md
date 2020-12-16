@@ -1,0 +1,2 @@
+# magpie
+Some microservice applications
